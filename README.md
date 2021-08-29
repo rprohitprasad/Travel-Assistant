@@ -10,6 +10,7 @@ About the Project:
 
 Website Link - https://travel-assistant-rkp.netlify.app/
 
-![Screenshot (21)](https://user-images.githubusercontent.com/71692155/131260130-84fe885e-b27f-42d0-8135-82cbbe2d22f5.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/71692155/131260135-c89a5539-5029-4907-b9cb-84fff54f32de.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/71692155/131260343-217a0336-4f9b-4056-a07c-4c57768d5991.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/71692155/131260344-842b7327-8cd4-407d-bb82-eedcb8df91ba.png)
+
 
